@@ -16,7 +16,6 @@ This is a simple weather application built with React.js that allows users to ch
 
 - React.js
 - OpenWeatherMap API
-- Axios (for making API requests)
 - JSX (JavaScript XML)
 - CSS3 (for styling)
 
@@ -46,7 +45,7 @@ This is a simple weather application built with React.js that allows users to ch
    npm start
    ```
 
-5. Open your browser and navigate to [http://localhost:3000] (http://localhost:3000).
+5. Open your browser and navigate to  [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
